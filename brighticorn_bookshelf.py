@@ -7,7 +7,6 @@ print("here's what you can do- add, view, check or exit")
 
 
 
-print(f"Action: {command}")
 
 while True:
 	
